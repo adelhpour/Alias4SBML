@@ -28,7 +28,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=["python-libsbml", "SBMLDiagrams==1.3.2"],
-    scripts=["testcases/mid_size_model.py", "testcases/model_with_highly_connected_species.py", "testcases/model_with_no_visualization_info.py", "testcases/model_with_visualization_info.py"],
+    scripts=["testcases/mid_size_model.py", "testcases/model_with_highly_connected_species.py", "testcases/model_with_no_visualization_info.py", "testcases/model_with_no_visualization_info.py"],
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     python_requires=">=3.8"
