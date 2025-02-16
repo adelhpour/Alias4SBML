@@ -1,2 +1,4 @@
 libsbml
-SBMLDiagrams==1.3.2
+SBMLDiagrams
+tellurium
+smblnetwork
