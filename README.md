@@ -90,15 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 If you use Alias4SBML in your research, please cite the following paper:
 
-Adel Heydarabadipour, Herbert M. Sauro, "[Alias4SBML: A Python Package for Generating Alias Nodes in SBML Models]," *arXiv:2502.11318v1*, 2025. DOI: [10.48550/arXiv.2502.11318](https://doi.org/10.48550/arXiv.2502.11318).
-
-
-Alternatively, if you are citing the software package directly, use the following reference:
-
-Adelhpour, A. (Year). Alias4SBML: A Python Package for Improved Visualization of Biological Networks. Available at: https://github.com/adelhpour/Alias4SBML.
-
-
-Please replace the placeholders with the actual citation details.
+Adel Heydarabadipour, Herbert M. Sauro, "Alias4SBML: A Python Package for Generating Alias Nodes in SBML Models," *arXiv:2502.11318v1*, 2025. DOI: [10.48550/arXiv.2502.11318](https://doi.org/10.48550/arXiv.2502.11318).
 
 ## Contact
 
